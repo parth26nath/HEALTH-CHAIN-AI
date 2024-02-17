@@ -1,0 +1,14 @@
+{
+  "name": "healthcare",
+  "version": "1.0.0",
+  "description": "health care",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Parth Nath Chauhan",
+  "license": "CYBER LIFE",
+  "dependencies": {
+    "mongod": "^2.0.0"
+  }
+}
